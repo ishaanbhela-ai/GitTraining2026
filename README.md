@@ -6,6 +6,6 @@ Instructions:
 - Complete the assigned task
 - Push the branch and raise a Pull Request
 
-Name: Ishaan Bhela
-Date: 07/01/2026
+Name: Ishaan Bhela <br>
+Date: 07/01/2026 <br>
 Interested Projects: Software engineering projects including Backend and Cloud.
